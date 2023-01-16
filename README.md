@@ -1,4 +1,6 @@
 # NVIDIA-StandaloneUpdater
+No NVIDIA, I won't be obligated to download your shitty GeForce Experience jsut to be able to auto-update my drivers.
+
 Auto-updates your NVIDIA Drivers to the latest version every 2 weeks (or whenever you want) (if available)
 
 In order to make it work, put the folder `nvidiaUpdater` on the root of your main drive (C:) then create a task on Task Scheduler with the interval you want. with this in the `Actions` tab:
