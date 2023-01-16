@@ -72,7 +72,7 @@ $nvidia = "$env:TEMP\nvidia.exe"
 			GTX 1050		=	837
 		GeForce GTX 10 Series:
 			GTX 1080TI		=	845
-			GTX 10			=	815
+			GTX 1080		=	815
 			GTX 1070TI		=	859
 			GTX 1070		=	816
 			GTX 1060		=	817
