@@ -9,3 +9,5 @@ In order to make it work, put the folder `nvidiaUpdater` on the root of your mai
 - Program: `conhost`
 - Add Arguments: `pwsh -windowstyle hidden -executionpolicy bypass -file updater.ps1`
 - Start in: `C:\nvidiaUpdater`
+
+Don't worry, the installer doesn't go automatically, you still need to manually go through the process (Just be sure to not select the GeForce Experience option).
